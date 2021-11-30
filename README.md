@@ -5,17 +5,6 @@
 </div>
 <br/><br/><br/>
 
-<div align="center">
-  <h2> 👩 💻 Activities </h2>
-  
-  * THESIS: An Impelmentation of A Crash Avoidance System based on Intergrated Sensors for Drone Auto Flight 📃
-  
-  * Development backend team of toyproject 🔗<a href="https://allforyoung.com/">[allforyong]</a>🔗, All For Young (2021.08) 
-  
-  * Development team of 🔗<a href="https://cafe.naver.com/kusitms">[KUSITMS]</a>🔗, Korean University Students IT, Management Society (2021.08 ~ 2021.11)
-</div>
-<br/><br/><br/>
-
 <h2 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -35,7 +24,7 @@
   ## ❓ BOJ ❓
   
   [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hochoi8621)](https://solved.ac/hochoi8621)
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=samuel62b322)](https://solved.ac/samuel62b322)
   
 </div>
 <br/><br/><br/>
@@ -44,12 +33,12 @@
 
 ## 🌈 Contact Me 🌈
 <p align="center">
-  <a href="https://www.instagram.com/ch.hooooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ch.hooooo/"/></a>&nbsp
-  <a href="mailto:yoonjeongin@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hochoi8621@gmail.com"/></a>
+  <a href="https://www.instagram.com/jaySJ0226/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jaySJ0226/"/></a>&nbsp
+  <a href="mailto:samuel62b3221@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=samuel62b3221@gmail.com"/></a>
 </p>
 <br/> <br/> <br/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihooo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysj0226)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
