@@ -1,5 +1,5 @@
-# Hi there 👋, I'm 선재!
-Aspiring Big Data Engineer | Computer Engineering Student | Art Enthusiast 🎨
+# SunJae Jeong!
+Aspiring Big Data Engineer | Computer Engineering Student
 
 ## 💼 About Me
 - 📊 Passionate about **Big Data Analysis** and **Machine Learning**
@@ -21,4 +21,4 @@ Aspiring Big Data Engineer | Computer Engineering Student | Art Enthusiast 🎨
 - I find beauty in subtle changes, like brewing a morning coffee or setting up cozy lighting 🌅
 
 ## 📫 Let's Connect!
-[LinkedIn](link) | [Portfolio](link) | [Email](mailto:your.email@example.com)
+[Email](mailto:samuel62b3221@gmail.com)
