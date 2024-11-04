@@ -11,10 +11,10 @@ Aspiring Big Data Engineer | Computer Engineering Student
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ...
 ## Mostly Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysj0226&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysj0226&layout=compact)]
 
-##current status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysj0226)]
+## Current Status
+[![Jaysj0226's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysj0226)
 
 ## 🔥 Current Projects
 - **Automated Data Analysis Report Generator** using LangChain
