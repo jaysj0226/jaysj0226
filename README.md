@@ -10,7 +10,7 @@ Aspiring Big Data Engineer | Computer Engineering Student
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ...
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysj0226&layout=compact)
 ## 🔥 Current Projects
 - **Automated Data Analysis Report Generator** using LangChain
 - **Predictive Demand Analysis** for distribution data
