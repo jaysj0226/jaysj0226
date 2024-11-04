@@ -26,4 +26,4 @@ Aspiring Big Data Engineer | Computer Engineering Student
 - I find beauty in subtle changes, like brewing a morning coffee or setting up cozy lighting 🌅
 
 ## 📫 Let's Connect!
-[Email](mailto:samuel62b3221@gmail.com)
+[samuel62b3221@gmail.com](mailto:samuel62b3221@gmail.com) | [gragfolio](url:https://grafolio.ogq.me/profile/SunJae/projects)
