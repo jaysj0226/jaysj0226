@@ -1,5 +1,5 @@
 # SunJae Jeong!
-Aspiring Big Data Engineer | Computer Engineering Student
+**Aspiring Big Data Engineer | Computer Engineering Student**
 
 ## 💼 About Me
 - 📊 Passionate about **Big Data Analysis** and **Machine Learning**
@@ -10,10 +10,11 @@ Aspiring Big Data Engineer | Computer Engineering Student
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ...
-## Mostly Used
+
+## 📊 Mostly Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysj0226&layout=compact)
 
-## Current Status
+## 📈 Current Status
 ![jaysj0226's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysj0226)
 
 ## 🔥 Current Projects
@@ -26,4 +27,5 @@ Aspiring Big Data Engineer | Computer Engineering Student
 - I find beauty in subtle changes, like brewing a morning coffee or setting up cozy lighting 🌅
 
 ## 📫 Let's Connect!
-[samuel62b3221@gmail.com](mailto:samuel62b3221@gmail.com) | [gragfolio](url:https://grafolio.ogq.me/profile/SunJae/projects)
+- [Email](mailto:samuel62b3221@gmail.com)
+- [GitHub Project Gallery](https://github.com/jaysj0226?tab=repositories)  <!-- This links to all your GitHub repositories, where you can highlight your favorite projects -->
