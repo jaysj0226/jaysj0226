@@ -14,7 +14,7 @@ Aspiring Big Data Engineer | Computer Engineering Student
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysj0226&layout=compact)
 
 ## Current Status
-[!Jaysj0226's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysj0226)
+![jaysj0226's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysj0226)
 
 ## 🔥 Current Projects
 - **Automated Data Analysis Report Generator** using LangChain
