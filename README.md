@@ -17,6 +17,9 @@
 ## 📈 Current Status
 ![jaysj0226's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaysj0226)
 
+## 💻 Recent Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaysj0226)
+
 ## 🔥 Current Projects
 - **Automated Data Analysis Report Generator** using LangChain
 - **Predictive Demand Analysis** for distribution data
