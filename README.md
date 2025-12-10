@@ -14,12 +14,19 @@ Currently working on automated analysis systems with LangChain
 
 ## Selected Work
 
+(2025.09 - 2025.12)
+**[Just Speak App](https://github.com/jaysj0226/Learning-English-AI-App)**  
+AI chat let people to have an experience in learning English
+
+(2025.04 - 2025.12)
 **[Recipe-Chatbot](https://github.com/jaysj0226/Recipe-Chatbot)**  
 AI-powered recipe suggestions from available ingredients
 
+(2024.10 - 2024.11)
 **[Predicting-Demand-Model](https://github.com/jaysj0226/Predicting-Demand-Model)**  
 Distribution demand forecasting with ML
 
+(2024.04 - 2024.04)
 **[AutomaticSubtitleMaker](https://github.com/jaysj0226/AutomatciSubtitleMaker)**  
 Accessibility through automated video subtitles
 
